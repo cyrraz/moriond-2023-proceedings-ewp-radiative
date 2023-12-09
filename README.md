@@ -9,3 +9,11 @@ The references of the figures are given in the text of the proceedings. They are
 * Belle II collaboration, *Measurement of the photon-energy spectrum in inclusive B → Xsγ decays identified using hadronic decays of the recoil B meson in 2019-2021 Belle II data*, [2210.10220](https://arxiv.org/abs/2210.10220).
 * Belle II collaboration, *Measurements of the branching fraction, isospin asymmetry, and lepton-universality ratio in B → J/ψK decays at Belle II*, [2207.11275](https://arxiv.org/abs/2207.11275).
 * Belle II collaboration, *Measurement of the branching fraction for the decay B → Kstar(892)ℓ+ℓ− at Belle II*, [2206.05946](https://arxiv.org/abs/2206.05946).
+
+See also
+--------
+
+* [phd-thesis](https://github.com/cyrraz/phd-thesis):  PhD thesis in Particle Physics written in LaTeX.
+* [particle-physics-presentations](https://github.com/cyrraz/particle-physics-presentations): Collection of public presentations in Beamer LaTeX that I gave during my PhD and postdoctoral studies in Particle Physics.
+* [latex-thesis-template](https://github.com/cyrraz/latex-thesis-template): LaTeX template for a PhD, Master's or Bachelor's thesis
+* [latex-letter-template](https://github.com/cyrraz/latex-letter-template):  Very simple template for a letter in LaTeX.
