@@ -4,6 +4,7 @@ This repository contains the LaTeX source of the proceedings of [the talk](https
 * C. Praz (on behalf of the Belle II collaboration), *Electroweak penguins and radiative B decays at Belle II*, Contribution to the 2023 Electroweak session of the 57th Rencontres de Moriond, [2305.09939](https://arxiv.org/abs/2305.09939).
 
 To compile the code and produce the pdf version of the proceedings, unzip the `figures.zip` folder and run `make` inside the repository.
+For producing the pdf, you need a distribution for the TeX typesetting system, such as [TeX Live](https://www.tug.org/texlive/quickinstall.html).
 
 The references of the figures are given in the text of the proceedings. They are:
 * Belle II collaboration, *Measurement of the photon-energy spectrum in inclusive B → Xsγ decays identified using hadronic decays of the recoil B meson in 2019-2021 Belle II data*, [2210.10220](https://arxiv.org/abs/2210.10220).
