@@ -17,5 +17,5 @@ See also
 
 * [phd-thesis](https://github.com/cyrraz/phd-thesis):  PhD thesis in Particle Physics written in LaTeX.
 * [particle-physics-presentations](https://github.com/cyrraz/particle-physics-presentations): Public presentations in Beamer LaTeX given during my PhD and postdoctoral studies in Particle Physics.
-* [latex-thesis-template](https://github.com/cyrraz/latex-thesis-template): LaTeX template for a PhD, Master's or Bachelor's thesis.
-* [latex-letter-template](https://github.com/cyrraz/latex-letter-template):  Very simple template for a letter in LaTeX.
+* [thesis-template](https://github.com/cyrraz/thesis-template): LaTeX template for a PhD, Master's or Bachelor's thesis.
+* [letter-template](https://github.com/cyrraz/letter-template):  Very simple template for a letter in LaTeX.
