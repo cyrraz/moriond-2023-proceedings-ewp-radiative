@@ -6,6 +6,7 @@ This repository contains the LaTeX source of the proceedings of [the talk](https
 
 To compile the code and produce the pdf version of the proceedings, unzip the `figures.zip` folder and run `make` inside the repository.
 For producing the pdf, you need a distribution for the TeX typesetting system, such as [TeX Live](https://www.tug.org/texlive/quickinstall.html).
+An alternative is to use an online LaTeX editor, such as [Overleaf](https://www.overleaf.com/).
 
 The references of the figures are given in the text of the proceedings. They are:
 * Belle II collaboration, *Measurement of the photon-energy spectrum in inclusive B → Xsγ decays identified using hadronic decays of the recoil B meson in 2019-2021 Belle II data*, [2210.10220](https://arxiv.org/abs/2210.10220).
